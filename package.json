@@ -1,0 +1,35 @@
+{
+	"version": "1.0.0",
+	"name": "smwebsite",
+	"private": true,
+	"devDependencies": {
+		"@types/bootstrap": "4.6.2",
+		"@types/jquery": "3.5.14",
+		"@types/jquery.validation": "1.16.7",
+		"@types/slick-carousel": "1.6.37",
+		"@types/sortablejs": "1.13.0",
+		"del": "6.0.0",
+		"gulp": "4.0.2",
+		"gulp-batch": "1.0.5",
+		"gulp-clean-css": "4.3.0",
+		"gulp-debug": "4.0.0",
+		"gulp-minify": "3.1.0",
+		"gulp-rename": "2.0.0",
+		"gulp-sass": "^5.1.0",
+		"gulp-sourcemaps": "3.0.0",
+		"node-sass": "7.0.1",
+		"sass": "^1.51.0",
+		"yargs": "16.1.1"
+	},
+	"dependencies": {
+		"bootstrap": "^4.6.2",
+		"font-awesome": "^4.7.0",
+		"jquery": "3.6.0",
+		"jquery-validation": "1.19.5",
+		"jquery-validation-unobtrusive": "3.2.12",
+		"popper.js": "1.16.1",
+		"slick-carousel": "1.8.1",
+		"sortablejs": "1.15.0",
+		"swiper": "8.3.1"
+	}
+}
