@@ -1,6 +1,5 @@
 {
 	"version": "1.0.0",
-	"name": "smwebsite",
 	"private": true,
 	"devDependencies": {
 		"@types/bootstrap": "4.6.4",
