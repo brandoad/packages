@@ -3,12 +3,12 @@
 	"private": true,
 	"devDependencies": {
 		"@types/bootstrap": "4.6.4",
-		"@types/jquery": "3.5.24",
+		"@types/jquery": "3.5.25",
 		"@types/jquery.validation": "1.16.9",
 		"@types/slick-carousel": "1.6.39",
 		"@types/sortablejs": "1.15.4",
-		"del": "6.0.0",
-		"eslint": "^8.45.0",
+		"del": "6.1.1",
+		"eslint": "8.52.0",
 		"gulp": "4.0.2",
 		"gulp-batch": "1.0.5",
 		"gulp-clean-css": "4.3.0",
@@ -19,21 +19,19 @@
 		"gulp-sass": "5.1.0",
 		"gulp-sourcemaps": "3.0.0",
 		"highlight.js": "11.9.0",
-		"sass": "1.68.0",
-		"ts-loader": "9.4.4",
+		"ts-loader": "9.5.0",
 		"ts-node": "10.9.1",
 		"vinyl-named": "1.1.0",
 		"webpack-stream": "7.0.0",
 		"yargs": "17.7.2"
 	},
 	"dependencies": {
-		"bootstrap": "^4.6.2",
 		"font-awesome": "^4.7.0",
 		"jquery": "3.7.1",
 		"jquery-validation": "1.20.0",
 		"jquery-validation-unobtrusive": "4.0.0",
 		"slick-carousel": "1.8.1",
 		"sortablejs": "1.15.0",
-		"tinymce": "6.7.1"
+		"tinymce": "6.7.2"
 	}
 }
