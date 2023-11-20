@@ -1,6 +1,4 @@
 {
-	"version": "1.0.0",
-	"private": true,
 	"devDependencies": {
 		"@popperjs/core": "2.11.8",
 		"@types/bootstrap": "5.2.9",
